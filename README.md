@@ -1,1 +1,2 @@
-Is simple platform game on pygame
+Is simple platform game on pygame Python
+
